@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 master_change
 hello
+=======
+my name is aks
+>>>>>>> branchtest2
